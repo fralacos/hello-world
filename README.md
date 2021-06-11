@@ -1,2 +1,2 @@
 # hello-world
-a time-honored tradition
+a bit about yourself
